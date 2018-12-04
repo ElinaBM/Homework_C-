@@ -1,0 +1,6 @@
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\ExchangeNumbers-Exercise2\bin\Debug\ExchangeNumbers-Exercise2.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\ExchangeNumbers-Exercise2\bin\Debug\ExchangeNumbers-Exercise2.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\ExchangeNumbers-Exercise2\bin\Debug\ExchangeNumbers-Exercise2.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\ExchangeNumbers-Exercise2\obj\Debug\ExchangeNumbers-Exercise2.csprojResolveAssemblyReference.cache
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\ExchangeNumbers-Exercise2\obj\Debug\ExchangeNumbers-Exercise2.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\ExchangeNumbers-Exercise2\obj\Debug\ExchangeNumbers-Exercise2.pdb

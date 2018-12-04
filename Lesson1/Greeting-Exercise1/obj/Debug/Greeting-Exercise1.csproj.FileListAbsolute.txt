@@ -1,0 +1,6 @@
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\Greeting-Exercise1\bin\Debug\Greeting-Exercise1.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\Greeting-Exercise1\bin\Debug\Greeting-Exercise1.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\Greeting-Exercise1\bin\Debug\Greeting-Exercise1.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\Greeting-Exercise1\obj\Debug\Greeting-Exercise1.csprojResolveAssemblyReference.cache
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\Greeting-Exercise1\obj\Debug\Greeting-Exercise1.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\Greeting-Exercise1\obj\Debug\Greeting-Exercise1.pdb

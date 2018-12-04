@@ -1,0 +1,6 @@
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\AverageNumber-Exercise4\bin\Debug\AverageNumber-Exercise4.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\AverageNumber-Exercise4\bin\Debug\AverageNumber-Exercise4.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\AverageNumber-Exercise4\bin\Debug\AverageNumber-Exercise4.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\AverageNumber-Exercise4\obj\Debug\AverageNumber-Exercise4.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\AverageNumber-Exercise4\obj\Debug\AverageNumber-Exercise4.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\AverageNumber-Exercise4\obj\Debug\AverageNumber-Exercise4.csprojResolveAssemblyReference.cache

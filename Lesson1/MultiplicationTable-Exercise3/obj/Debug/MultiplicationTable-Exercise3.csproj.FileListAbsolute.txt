@@ -1,0 +1,6 @@
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\MultiplicationTable-Exercise3\bin\Debug\MultiplicationTable-Exercise3.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\MultiplicationTable-Exercise3\bin\Debug\MultiplicationTable-Exercise3.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\MultiplicationTable-Exercise3\bin\Debug\MultiplicationTable-Exercise3.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\MultiplicationTable-Exercise3\obj\Debug\MultiplicationTable-Exercise3.csprojResolveAssemblyReference.cache
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\MultiplicationTable-Exercise3\obj\Debug\MultiplicationTable-Exercise3.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson1\Lesson1\MultiplicationTable-Exercise3\obj\Debug\MultiplicationTable-Exercise3.pdb
