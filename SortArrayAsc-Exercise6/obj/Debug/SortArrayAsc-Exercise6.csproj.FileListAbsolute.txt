@@ -1,0 +1,6 @@
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayAsc-Exercise6\bin\Debug\SortArrayAsc-Exercise6.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayAsc-Exercise6\bin\Debug\SortArrayAsc-Exercise6.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayAsc-Exercise6\bin\Debug\SortArrayAsc-Exercise6.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayAsc-Exercise6\obj\Debug\SortArrayAsc-Exercise6.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayAsc-Exercise6\obj\Debug\SortArrayAsc-Exercise6.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayAsc-Exercise6\obj\Debug\SortArrayAsc-Exercise6.csprojResolveAssemblyReference.cache
