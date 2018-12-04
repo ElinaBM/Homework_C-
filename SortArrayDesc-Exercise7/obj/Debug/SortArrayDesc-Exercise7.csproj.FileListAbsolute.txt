@@ -1,0 +1,5 @@
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayDesc-Exercise7\bin\Debug\SortArrayDesc-Exercise7.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayDesc-Exercise7\bin\Debug\SortArrayDesc-Exercise7.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayDesc-Exercise7\bin\Debug\SortArrayDesc-Exercise7.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayDesc-Exercise7\obj\Debug\SortArrayDesc-Exercise7.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SortArrayDesc-Exercise7\obj\Debug\SortArrayDesc-Exercise7.pdb
