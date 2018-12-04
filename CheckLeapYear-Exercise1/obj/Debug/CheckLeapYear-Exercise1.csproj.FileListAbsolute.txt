@@ -1,0 +1,5 @@
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\CheckLeapYear-Exercise1\bin\Debug\CheckLeapYear-Exercise1.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\CheckLeapYear-Exercise1\bin\Debug\CheckLeapYear-Exercise1.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\CheckLeapYear-Exercise1\bin\Debug\CheckLeapYear-Exercise1.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\CheckLeapYear-Exercise1\obj\Debug\CheckLeapYear-Exercise1.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\CheckLeapYear-Exercise1\obj\Debug\CheckLeapYear-Exercise1.pdb
