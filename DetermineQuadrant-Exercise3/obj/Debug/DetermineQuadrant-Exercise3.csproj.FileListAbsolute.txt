@@ -1,0 +1,5 @@
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\DetermineQuadrant-Exercise3\bin\Debug\DetermineQuadrant-Exercise3.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\DetermineQuadrant-Exercise3\bin\Debug\DetermineQuadrant-Exercise3.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\DetermineQuadrant-Exercise3\bin\Debug\DetermineQuadrant-Exercise3.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\DetermineQuadrant-Exercise3\obj\Debug\DetermineQuadrant-Exercise3.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\DetermineQuadrant-Exercise3\obj\Debug\DetermineQuadrant-Exercise3.pdb
