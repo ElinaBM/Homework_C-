@@ -1,0 +1,5 @@
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\LargestNumber-Exercise2\bin\Debug\LargestNumber-Exercise2.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\LargestNumber-Exercise2\bin\Debug\LargestNumber-Exercise2.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\LargestNumber-Exercise2\bin\Debug\LargestNumber-Exercise2.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\LargestNumber-Exercise2\obj\Debug\LargestNumber-Exercise2.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\LargestNumber-Exercise2\obj\Debug\LargestNumber-Exercise2.pdb
