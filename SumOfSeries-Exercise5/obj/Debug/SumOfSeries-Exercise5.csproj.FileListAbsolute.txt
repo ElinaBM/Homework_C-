@@ -1,0 +1,6 @@
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SumOfSeries-Exercise5\bin\Debug\SumOfSeries-Exercise5.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SumOfSeries-Exercise5\bin\Debug\SumOfSeries-Exercise5.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SumOfSeries-Exercise5\bin\Debug\SumOfSeries-Exercise5.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SumOfSeries-Exercise5\obj\Debug\SumOfSeries-Exercise5.csprojResolveAssemblyReference.cache
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SumOfSeries-Exercise5\obj\Debug\SumOfSeries-Exercise5.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\Lesson2_Homework\SumOfSeries-Exercise5\obj\Debug\SumOfSeries-Exercise5.pdb
