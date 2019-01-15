@@ -45,6 +45,7 @@
             this.UpdButton = new System.Windows.Forms.Button();
             this.CancButton = new System.Windows.Forms.Button();
             this.fullNameTextlable = new System.Windows.Forms.Label();
+            this.verificationCodeLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // nameTextBox
@@ -53,7 +54,6 @@
             this.nameTextBox.Name = "nameTextBox";
             this.nameTextBox.Size = new System.Drawing.Size(219, 20);
             this.nameTextBox.TabIndex = 0;
-            this.nameTextBox.TextChanged += new System.EventHandler(this.nameTextBox_TextChanged);
             this.nameTextBox.Leave += new System.EventHandler(this.Name_Leave);
             // 
             // nameTextBoxLabel
@@ -64,7 +64,6 @@
             this.nameTextBoxLabel.Size = new System.Drawing.Size(35, 13);
             this.nameTextBoxLabel.TabIndex = 1;
             this.nameTextBoxLabel.Text = "Name";
-            this.nameTextBoxLabel.Click += new System.EventHandler(this.label1_Click);
             // 
             // surnameTextBox
             // 
@@ -72,7 +71,6 @@
             this.surnameTextBox.Name = "surnameTextBox";
             this.surnameTextBox.Size = new System.Drawing.Size(219, 20);
             this.surnameTextBox.TabIndex = 0;
-            this.surnameTextBox.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             this.surnameTextBox.Leave += new System.EventHandler(this.Surname_Leave);
             // 
             // surnameTextBoxLabel
@@ -83,7 +81,6 @@
             this.surnameTextBoxLabel.Size = new System.Drawing.Size(49, 13);
             this.surnameTextBoxLabel.TabIndex = 1;
             this.surnameTextBoxLabel.Text = "Surname";
-            this.surnameTextBoxLabel.Click += new System.EventHandler(this.label2_Click);
             // 
             // fullNameLabel
             // 
@@ -107,6 +104,7 @@
             // 
             this.passwordTextBox.Location = new System.Drawing.Point(140, 121);
             this.passwordTextBox.Name = "passwordTextBox";
+            this.passwordTextBox.PasswordChar = '*';
             this.passwordTextBox.Size = new System.Drawing.Size(218, 20);
             this.passwordTextBox.TabIndex = 5;
             this.passwordTextBox.Leave += new System.EventHandler(this.Password_leave);
@@ -124,6 +122,7 @@
             // 
             this.repeatPaswTextBox.Location = new System.Drawing.Point(140, 161);
             this.repeatPaswTextBox.Name = "repeatPaswTextBox";
+            this.repeatPaswTextBox.PasswordChar = '*';
             this.repeatPaswTextBox.Size = new System.Drawing.Size(219, 20);
             this.repeatPaswTextBox.TabIndex = 7;
             this.repeatPaswTextBox.Leave += new System.EventHandler(this.RepeasPassword_Leave);
@@ -200,6 +199,7 @@
             this.codeTextBox.Name = "codeTextBox";
             this.codeTextBox.Size = new System.Drawing.Size(219, 20);
             this.codeTextBox.TabIndex = 15;
+            this.codeTextBox.Leave += new System.EventHandler(this.codeTextBox_Leave);
             // 
             // UpdButton
             // 
@@ -231,11 +231,21 @@
             this.fullNameTextlable.Text = "Full Name";
             this.fullNameTextlable.Visible = false;
             // 
+            // verificationCodeLabel
+            // 
+            this.verificationCodeLabel.AutoSize = true;
+            this.verificationCodeLabel.Location = new System.Drawing.Point(394, 317);
+            this.verificationCodeLabel.Name = "verificationCodeLabel";
+            this.verificationCodeLabel.Size = new System.Drawing.Size(83, 13);
+            this.verificationCodeLabel.TabIndex = 18;
+            this.verificationCodeLabel.Text = "verificationCode";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(660, 455);
+            this.Controls.Add(this.verificationCodeLabel);
             this.Controls.Add(this.CancButton);
             this.Controls.Add(this.UpdButton);
             this.Controls.Add(this.codeTextBox);
@@ -258,7 +268,6 @@
             this.Controls.Add(this.surnameTextBox);
             this.Name = "Form1";
             this.Text = "Registration Form";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -287,6 +296,7 @@
         private System.Windows.Forms.Button UpdButton;
         private System.Windows.Forms.Button CancButton;
         private System.Windows.Forms.Label fullNameTextlable;
+        private System.Windows.Forms.Label verificationCodeLabel;
     }
 }
 

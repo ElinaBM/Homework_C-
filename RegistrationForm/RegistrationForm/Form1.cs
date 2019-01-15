@@ -8,28 +8,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Globalization;
+using System.Text.RegularExpressions;
 
 namespace RegistrationForm
 {
     public partial class Form1 : Form
     {
+
+
         public Form1() {
             InitializeComponent();
-        }
-
-        public void Form1_Load(object sender, EventArgs e) {
-
-        }
-
-        public void textBox2_TextChanged(object sender, EventArgs e) {
-
-        }
-
-        public void label1_Click(object sender, EventArgs e) {
-
-        }
-
-        public void label2_Click(object sender, EventArgs e) {
+            RandomCodeGenerator();
 
         }
 
@@ -37,18 +26,11 @@ namespace RegistrationForm
             string name = nameTextBox.Text.ToString();
             if (name.Length <= 0) {
                 MessageBox.Show("Field cannot be empty. Please enter your name.");
-            } else if (!System.Text.RegularExpressions.Regex.IsMatch(nameTextBox.Text, "^[a-zA-Z-]+$")) {
+            } else if (!Regex.IsMatch(nameTextBox.Text, "^[a-zA-Z-]+$")) {
                 MessageBox.Show("Only alphabetic characters allowed.");
             }
-
-            fullNameTextlable.Text = name + " " + surnameTextBox.Text;
-            fullNameTextlable.Visible = true;
-
         }
 
-        public void nameTextBox_TextChanged(object sender, EventArgs e) {
-
-        }
 
         public void Surname_Leave(object sender, EventArgs e) {
             string surname = surnameTextBox.Text.ToString();
@@ -57,17 +39,15 @@ namespace RegistrationForm
             } else if (!System.Text.RegularExpressions.Regex.IsMatch(surnameTextBox.Text, "^[a-zA-Z-]+$")) {
                 MessageBox.Show("Only alphabetic characters allowed.");
             }
+            CreateFullName(nameTextBox.Text, surnameTextBox.Text);
+        }
 
-            fullNameTextlable.Text = nameTextBox.Text.ToString() + " " + surname;
+        public void CreateFullName(string name, string surname) {
+            fullNameTextlable.Text = name + " " + surname;
             fullNameTextlable.Visible = true;
         }
 
         public void Password_leave(object sender, EventArgs e) {
-
-
-
-
-
             string password = passwordTextBox.Text.ToString();
             if (password.Length <= 0) {
                 MessageBox.Show("Field cannot be empty. Please enter password.");
@@ -76,42 +56,33 @@ namespace RegistrationForm
                 if (!enteredPass) {
                     MessageBox.Show("Password must be 5 characters long and contain at least 1 upper case letter, 1 digit and 1 special character");
                 }
-
-
             }
-
         }
-
 
         public static bool validatePass(string password) {
             bool isValid = false;
             bool isUpperCase = false, isDigit = false, isSymbol = false;
 
             if (password.Length >= 5) {
-
-
                 foreach (var c in password) {
                     if (char.IsUpper(c)) isUpperCase = true;
                     if (char.IsDigit(c)) isDigit = true;
                     if (!char.IsLetterOrDigit(c)) isSymbol = true;
 
                     isValid = isUpperCase && isDigit && isSymbol;
-
                 }
 
             } else {
-
                 isValid = false;
             }
 
             return isValid;
             //return password.Length >= 5 && password.Any(x => char.IsDigit(x)) && password.Any(x => char.IsUpper(x)) && password.Any(x => char.IsSymbol(x));
-
         }
 
         public void RepeasPassword_Leave(object sender, EventArgs e) {
             string password2 = repeatPaswTextBox.Text;
-            if(password2!= passwordTextBox.Text.ToString()) {
+            if (password2 != passwordTextBox.Text.ToString()) {
                 MessageBox.Show("Password doesn't match");
             }
         }
@@ -122,7 +93,6 @@ namespace RegistrationForm
             DateTime birthdayDate;
             bool isDate = DateTime.TryParse(birthday, out birthdayDate);
 
-            MessageBox.Show(birthdayDate.ToString("dd/MM/yyyy"));
             string ssn = birthday.Replace(".", "").Remove(4, 2);
             ssnTextBox.Text = ssn;
         }
@@ -130,26 +100,23 @@ namespace RegistrationForm
         public void Ssn_Leave(object sender, EventArgs e) {
             string ssnCompleate = ssnTextBox.Text;
             if (ssnCompleate.Length < 12) {
-                MessageBox.Show("Length of SSN should be 12."); }
-            else {
+                MessageBox.Show("Length of SSN should be 12.");
+            } else {
                 string ssnFirstPart = birthdayTextBox.Text.Replace(".", "").Remove(4, 2);
                 string ssnCompleateFirstPart = ssnCompleate.Substring(0, 6);
                 if (ssnFirstPart != ssnCompleateFirstPart) {
                     MessageBox.Show("First part of SSN should match birthday.");
-                    }
-
+                }
             }
-
-
-            }
+        }
 
         public void email_Leave(object sender, EventArgs e) {
             string email = emailTextBox.Text;
 
-            if (email.Length <= 0) {
-                MessageBox.Show("Field cannot be empty.");
-            }else if (email.Contains("@") == false) {
-                MessageBox.Show("Please use correct e-mail format: xxx@xxxx.xxx");
+            Regex emailReg = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
+
+            if (!emailReg.IsMatch(email)) {
+                MessageBox.Show("Incorrect e-mail format. Please use format xxx@xxxx.xxx");
             }
         }
 
@@ -158,14 +125,35 @@ namespace RegistrationForm
         }
 
         public void Update_Click(object sender, EventArgs e) {
+            while (!codeTextBox.Text.Equals(verificationCodeLabel.Text)) {
+                MessageBox.Show("Your entered code does not match verification code!");
+                codeTextBox.Text = "";
+            }
 
-            MessageBox.Show("Successful registration for: \nFull Name: "+nameTextBox.Text+" " + surnameTextBox.Text+
-                "\nBirthday: "+ birthdayTextBox.Text+
-                "\nSSN: "+ ssnTextBox.Text+
-                "\nE-mail: "+ emailTextBox.Text);
-               
+                MessageBox.Show("Successful registration for: \nFull Name: " + nameTextBox.Text + " " + surnameTextBox.Text +
+                "\nBirthday: " + birthdayTextBox.Text +
+                "\nSSN: " + ssnTextBox.Text +
+                "\nE-mail: " + emailTextBox.Text);
+        }
+
+        public void RandomCodeGenerator() {
+            Random randomCode = new Random();
+            var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+            var str = new char[5];
+            for (int i = 0; i < str.Length; i++) {
+                str[i] = chars[randomCode.Next(chars.Length)];
+            }
+            var randomSringValue = new String(str);
+            verificationCodeLabel.Text = randomSringValue;
+            verificationCodeLabel.Visible = true;
+        }
+        private void codeTextBox_Leave(object sender, EventArgs e) {
+            if (!codeTextBox.Text.Equals(verificationCodeLabel.Text)) {
+                MessageBox.Show("Your entered code does not match verification code!");
+
+            }
         }
     }
-    }
+}
 
 
