@@ -1,0 +1,39 @@
+C:\Users\BIKOLG\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\BIKOLG\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\BIKOLG\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\BIKOLG\source\repos\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\BIKOLG\source\repos\LINQ\LINQ\obj\Debug\LINQ.frmEmployeeGrid.resources
+C:\Users\BIKOLG\source\repos\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+C:\Users\BIKOLG\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.Cache
+C:\Users\BIKOLG\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\BIKOLG\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\BIKOLG\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Olga\Google Drive\Visma\Lesson_5\Home Work\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Olga\Google Drive\Visma\Lesson_5\Home Work\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Olga\Google Drive\Visma\Lesson_5\Home Work\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Olga\Google Drive\Visma\Lesson_5\Home Work\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Google Drive\Visma\Lesson_5\Home Work\LINQ\LINQ\obj\Debug\LINQ.frmEmployeeGrid.resources
+C:\Users\Olga\Google Drive\Visma\Lesson_5\Home Work\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+C:\Users\Olga\Google Drive\Visma\Lesson_5\Home Work\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.Cache
+C:\Users\Olga\Google Drive\Visma\Lesson_5\Home Work\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Google Drive\Visma\Lesson_5\Home Work\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Olga\Google Drive\Visma\Lesson_5\Home Work\LINQ\LINQ\obj\Debug\LINQ.pdb
+\\baltic.europe.ifint.biz\userconf\Latvia\Riga\Files\BIKOLG\Desktop\seb6\Home Work-20181204T125308Z-001\Home Work\LINQ\LINQ\bin\Debug\LINQ.exe.config
+\\baltic.europe.ifint.biz\userconf\Latvia\Riga\Files\BIKOLG\Desktop\seb6\Home Work-20181204T125308Z-001\Home Work\LINQ\LINQ\bin\Debug\LINQ.exe
+\\baltic.europe.ifint.biz\userconf\Latvia\Riga\Files\BIKOLG\Desktop\seb6\Home Work-20181204T125308Z-001\Home Work\LINQ\LINQ\bin\Debug\LINQ.pdb
+\\baltic.europe.ifint.biz\userconf\Latvia\Riga\Files\BIKOLG\Desktop\seb6\Home Work-20181204T125308Z-001\Home Work\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+\\baltic.europe.ifint.biz\userconf\Latvia\Riga\Files\BIKOLG\Desktop\seb6\Home Work-20181204T125308Z-001\Home Work\LINQ\LINQ\obj\Debug\LINQ.frmEmployeeGrid.resources
+\\baltic.europe.ifint.biz\userconf\Latvia\Riga\Files\BIKOLG\Desktop\seb6\Home Work-20181204T125308Z-001\Home Work\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+\\baltic.europe.ifint.biz\userconf\Latvia\Riga\Files\BIKOLG\Desktop\seb6\Home Work-20181204T125308Z-001\Home Work\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+\\baltic.europe.ifint.biz\userconf\Latvia\Riga\Files\BIKOLG\Desktop\seb6\Home Work-20181204T125308Z-001\Home Work\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+\\baltic.europe.ifint.biz\userconf\Latvia\Riga\Files\BIKOLG\Desktop\seb6\Home Work-20181204T125308Z-001\Home Work\LINQ\LINQ\obj\Debug\LINQ.exe
+\\baltic.europe.ifint.biz\userconf\Latvia\Riga\Files\BIKOLG\Desktop\seb6\Home Work-20181204T125308Z-001\Home Work\LINQ\LINQ\obj\Debug\LINQ.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.exe.config
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.exe
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.pdb
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.frmEmployeeGrid.resources
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+\\SFRG001A\Userfolders01$\S42908\My Documents\Visual Studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.Cache
